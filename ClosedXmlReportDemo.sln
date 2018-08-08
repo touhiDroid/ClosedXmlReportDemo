@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ClosedXmlReportDemo", "ClosedXmlReportDemo\ClosedXmlReportDemo.vdproj", "{5F814DA0-F09C-4238-A0C0-6E60FDCE8D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F814DA0-F09C-4238-A0C0-6E60FDCE8D9F}.Debug|Default.ActiveCfg = Debug
+		{5F814DA0-F09C-4238-A0C0-6E60FDCE8D9F}.Debug|Default.Build.0 = Debug
+		{5F814DA0-F09C-4238-A0C0-6E60FDCE8D9F}.Release|Default.ActiveCfg = Release
+		{5F814DA0-F09C-4238-A0C0-6E60FDCE8D9F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E15381B-841F-4102-9F6C-899FDDA8D04E}
+	EndGlobalSection
+EndGlobal
